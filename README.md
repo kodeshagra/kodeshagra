@@ -40,22 +40,22 @@ Always learning, always building—open to impactful backend roles and collabora
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" title="Portfolio">
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239" target="_blank" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-3a86ff?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" title="Resume">
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239" target="_blank" title="Resume">
     <img src="https://img.shields.io/badge/Resume-ffbe0b?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/u/kusagrakulshrestha" target="_blank" title="LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-e76f51?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" title="GeeksforGeeks">
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239" target="_blank" title="GeeksforGeeks">
     <img src="https://img.shields.io/badge/GeeksforGeeks-43a047?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" title="Email">
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239" title="Email">
     <img src="https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -129,12 +129,12 @@ Always learning, always building—open to impactful backend roles and collabora
 
 <h2 align="center">👋 Let's connect and build something impactful!</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Portfolio-3a86ff?style=for-the-badge&logo=internet-explorer"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Resume-ffbe0b?style=for-the-badge&logo=googledrive"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LeetCode-e76f51?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/GeeksforGeeks-43a047?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239"><img src="https://img.shields.io/badge/Portfolio-3a86ff?style=for-the-badge&logo=internet-explorer"></a>
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239"><img src="https://img.shields.io/badge/Resume-ffbe0b?style=for-the-badge&logo=googledrive"></a>
+  <a href="https://leetcode.com/u/kusagrakulshrestha"><img src="https://img.shields.io/badge/LeetCode-e76f51?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239"><img src="https://img.shields.io/badge/GeeksforGeeks-43a047?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kushagra-kulshreshtha-a37073239"><img src="https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <p align="center">
   <b>Open to backend internships, collaborations, and full-time opportunities.</b>
@@ -142,4 +142,4 @@ Always learning, always building—open to impactful backend roles and collabora
 
 ---
 
-<p align="center"><sub>Made with ❤️ by Kushagra Kulshrestha | Always learning, always building.</sub></p>
+<p align="center"><sub>Made with ❤️ by Kushagra Kulshrestha | Always learning, always building.</sub></p>.
